@@ -1,0 +1,14 @@
+setup.py
+bin/__init__.py
+bin/runner.py
+bin/configs/__init__.py
+bin/configs/conf.yml
+libraries/__init__.py
+libraries/iguazio_utils.py
+rx_perso_spark_iguazio.egg-info/PKG-INFO
+rx_perso_spark_iguazio.egg-info/SOURCES.txt
+rx_perso_spark_iguazio.egg-info/dependency_links.txt
+rx_perso_spark_iguazio.egg-info/requires.txt
+rx_perso_spark_iguazio.egg-info/top_level.txt
+spark/__init__.py
+spark/testRun.py
